@@ -49,6 +49,4 @@ I'm a passionate **Backend Developer** currently studying **Computer Science**, 
 - 💼 LinkedIn: [mohamed-baza-657963264](https://www.linkedin.com/in/mohamed-baza-657963264/)
 - 📧 Email: bazahmohamed1@gmail.com
 
-## 🔥 Fun Fact
 
-I’m building my backend and frontend skills one project at a time — from learning to building and giving back to the community.
