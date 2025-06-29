@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Mohamed Baza
+# 👋 Hi there, I'm Mohamed hosny 
 
 I'm a passionate **Backend Developer** currently studying **Computer Science**, and I also enjoy working on the **Frontend** side when needed.
 
