@@ -44,6 +44,9 @@ I'm a passionate **Backend Developer** currently studying **Computer Science**, 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)  
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=eevou.eevou)
+
+
 ## 📫 How to Reach Me
 
 - 💼 LinkedIn: [mohamed-baza-657963264](https://www.linkedin.com/in/mohamed-baza-657963264/)
