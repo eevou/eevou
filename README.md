@@ -4,7 +4,7 @@ I'm a passionate **Backend Developer** currently studying **Computer Science**, 
 
 ## 🚀 About Me
 
-- 🎓 Studying **Computer Science**
+- 🎓  **Computer Science**
 - 💻 Focused on **Backend Development** 
 - 🌐 Comfortable with **Frontend Development** using HTML, CSS, JavaScript, Bootstrap, and Tailwind CSS
 - 🎨 Able to help in  UI mockups and ideas using **Figma**
